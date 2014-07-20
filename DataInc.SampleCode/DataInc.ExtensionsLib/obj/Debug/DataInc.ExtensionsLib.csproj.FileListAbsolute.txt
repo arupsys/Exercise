@@ -1,0 +1,4 @@
+C:\Shadows\DataInc.SampleCode\DataInc.ExtensionsLib\bin\Debug\DataInc.ExtensionsLib.dll
+C:\Shadows\DataInc.SampleCode\DataInc.ExtensionsLib\bin\Debug\DataInc.ExtensionsLib.pdb
+C:\Shadows\DataInc.SampleCode\DataInc.ExtensionsLib\obj\Debug\DataInc.ExtensionsLib.dll
+C:\Shadows\DataInc.SampleCode\DataInc.ExtensionsLib\obj\Debug\DataInc.ExtensionsLib.pdb

@@ -1,0 +1,7 @@
+C:\Shadows\DataInc.SampleCode\DataInc.ExtensionLib.Tests\bin\Debug\DataInc.ExtensionLib.Tests.dll
+C:\Shadows\DataInc.SampleCode\DataInc.ExtensionLib.Tests\bin\Debug\DataInc.ExtensionLib.Tests.pdb
+C:\Shadows\DataInc.SampleCode\DataInc.ExtensionLib.Tests\bin\Debug\DataInc.ExtensionsLib.dll
+C:\Shadows\DataInc.SampleCode\DataInc.ExtensionLib.Tests\bin\Debug\DataInc.ExtensionsLib.pdb
+C:\Shadows\DataInc.SampleCode\DataInc.ExtensionLib.Tests\obj\Debug\DataInc.ExtensionLib.Tests.csprojResolveAssemblyReference.cache
+C:\Shadows\DataInc.SampleCode\DataInc.ExtensionLib.Tests\obj\Debug\DataInc.ExtensionLib.Tests.dll
+C:\Shadows\DataInc.SampleCode\DataInc.ExtensionLib.Tests\obj\Debug\DataInc.ExtensionLib.Tests.pdb

@@ -1,0 +1,6 @@
+C:\Shadows\DataInc.SampleCode\DataInc.SampleCode\bin\Debug\DataInc.SampleCode.exe.config
+C:\Shadows\DataInc.SampleCode\DataInc.SampleCode\bin\Debug\DataInc.SampleCode.exe
+C:\Shadows\DataInc.SampleCode\DataInc.SampleCode\bin\Debug\DataInc.SampleCode.pdb
+C:\Shadows\DataInc.SampleCode\DataInc.SampleCode\obj\Debug\DataInc.SampleCode.csprojResolveAssemblyReference.cache
+C:\Shadows\DataInc.SampleCode\DataInc.SampleCode\obj\Debug\DataInc.SampleCode.exe
+C:\Shadows\DataInc.SampleCode\DataInc.SampleCode\obj\Debug\DataInc.SampleCode.pdb
